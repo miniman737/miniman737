@@ -1,3 +1,7 @@
+
+![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 - 👋 Hi, my name is Marcus Ganz
 - I’m a 4th year Software Engineering student at the University of Victoria
 - Through my studies, internships and personal projects I have gained a strong knowledge in Agile Development, C, Java, Python, swift, React, and ReactNative
