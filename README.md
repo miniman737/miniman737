@@ -1,4 +1,4 @@
-# 👋 Welcome!
+# 👋 Welcome To Marcus Ganz's Portfolio!
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-light-mode-only)
 - I’m a 4th year Software Engineering student at the University of Victoria
