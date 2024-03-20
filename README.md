@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-light-mode-only)
 - I’m a 4th year Software Engineering student at the University of Victoria
-- Through my studies, internships and personal projects I have gained a strong knowledge in Agile Development, C, Java, Python, swift, React, and ReactNative
+- Through my studies, internships and personal projects I have gained a strong knowledge in Agile Development, C, Java, Python, Swift, React, and ReactNative
 - I post all my side projects here, some of my daily leetcode solutions, and some of my term projects and miscellaneous assignments
 
 
