@@ -1,8 +1,8 @@
 # 👋 Welcome To Marcus Ganz's Portfolio!
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-light-mode-only)
-- I’m a 4th year Software Engineering student at the University of Victoria
-- Through my studies, internships and personal projects I have gained a strong knowledge in Agile Development, C, Java, Python, Swift, React, and ReactNative
+- I’m a Software Engineering that went to the University of Victoria
+- Through my studies, internships and personal projects, and work experience I have gained a strong knowledge in iOS dvelopment(swift/objective c), c++, typescript, React, React native, C and Java
 - I post all my side projects here, some of my daily leetcode solutions, and some of my term projects and miscellaneous assignments
 
 
