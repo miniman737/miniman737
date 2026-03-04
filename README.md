@@ -1,9 +1,19 @@
 # 👋 Welcome To Marcus Ganz's Portfolio!
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/miniman737/github-stats/master/generated/overview.svg#gh-light-mode-only)
-- I’m a Software Engineering that went to the University of Victoria
-- Through my studies, internships and personal projects, and work experience I have gained a strong knowledge in iOS dvelopment(Swift/Objective C), C++, Typescript, React, React Native, C and Java
-- I post all my side projects here, some of my daily leetcode solutions, and some of my term projects and miscellaneous assignments
+Software Engineer — iOS & Robotics Systems
+
+I’m a Software Engineering graduate from the University of Victoria focused on native iOS development and robotics software systems.
+
+My work centers around:
+
+Building performant, well-architected iOS applications using Swift
+
+Developing robotics control and autonomy systems in C++ and Python
+
+Designing reliable, testable, and hardware-integrated software
+
+This repository highlights selected projects in those domains.
 
 
 <!---
