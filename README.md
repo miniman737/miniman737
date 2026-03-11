@@ -5,7 +5,7 @@
 
 # Software Engineer — iOS & Robotics Systems
 
-I’m a Software Engineering graduate from the University of Victoria focused on native iOS development and robotics software systems.
+I’m a Software Engineer attending the University of Victoria focused on native iOS development and robotics software systems.
 
 My work centers around:
 
